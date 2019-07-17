@@ -40,6 +40,9 @@ AWS website and log-in in your AWS account.
 |Custom UDP Rule	|UDP	                |15001-20000	|Anywhere|
 |Custom UDP Rule	|UDP	                |25001-30000	|Anywhere|
 
-  
-  
+<br>
+7.Finally launch the instance by either creating or using previous key-pair.<br><br>
+<img src="https://gitresource.s3.us-east-2.amazonaws.com/vyprvpn/screenshots/Screenshot+from+2019-07-17+16-41-27.png"><br>
+8.Copy your public IP address and open it in browser ,you will see the VyprVPN installation screen. <br><br>
+<img src="https://gitresource.s3.us-east-2.amazonaws.com/vyprvpn/screenshots/Screenshot+from+2019-07-17+16-41-37.png">
   
