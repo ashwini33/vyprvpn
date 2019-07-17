@@ -27,7 +27,7 @@ AWS website and log-in in your AWS account.
   
   
 |Type             |Protocol (auto-set)  |Port Range   |Source|
-|-----------------|:-------------------:|:-----------:|:------:|
+|:---------------:|:-------------------:|:-----------:|:------:|
 |HTTP	            |TCP	                |80	          |My IP (will detect and select your IP)|
 |HTTPS	          |TCP	                |443	        |My IP|
 |SSH	            |TCP	                |22	          |My IP|
