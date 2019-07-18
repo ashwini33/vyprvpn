@@ -66,4 +66,15 @@ As of now your server is installed and running set your server name and chage th
  </ol>
 <br><br>
 <img src="https://gitresource.s3.us-east-2.amazonaws.com/vyprvpn/screenshots/Screenshot+from+2019-07-17+17-01-05.png"> <br><br>
-To connect to the server first install the VyprVPN client ,in the following example we checked the server functioning on Android Device.<br>
+To connect to the server first install the VyprVPN client ,in the following example we will check the server functioning on Android Device.<br>
+First install the VyprVPN on your android device. <br><br>
+<img src="https://gitresource.s3.us-east-2.amazonaws.com/vyprvpn/screenshots/Screenshot_20190717-225637.png"> <br><br>
+Open the App and log-in with the new redentials if you have changed.The application will show your current location. Check your current public IP address (search in google or click on this <a href="https://ifconfig.co/" link to check your current public IP address) . <br><br>
+<img src="https://gitresource.s3.us-east-2.amazonaws.com/vyprvpn/screenshots/Screenshot_20190717-230549.png"><br><br>
+<img src="https://gitresource.s3.us-east-2.amazonaws.com/vyprvpn/screenshots/Screenshot_20190717-231004.png"> <br><br>
+Now connect to your sever by selecting the server name (her we have vyprvpn) .<br><br>
+<img src="https://gitresource.s3.us-east-2.amazonaws.com/vyprvpn/screenshots/Screenshot_20190717-231004.png"<br><br>
+After you are connected a tiny notification will show you that your device is connected to VPN.<br>
+After you connect to the server , again check your public IP if it changed or not.
+<img src=""https://gitresource.s3.us-east-2.amazonaws.com/vyprvpn/screenshots/Screenshot_20190717-231039.png><br><br>
+img src="https://gitresource.s3.us-east-2.amazonaws.com/vyprvpn/screenshots/Screenshot_20190717-230651.png"><br>,br>
