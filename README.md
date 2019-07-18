@@ -46,9 +46,24 @@ AWS website and log-in in your AWS account.
 8.Copy your public IP address and open it in browser ,you will see the VyprVPN installation screen. <br><br>
 <img src="https://gitresource.s3.us-east-2.amazonaws.com/vyprvpn/screenshots/Screenshot+from+2019-07-17+16-41-37.png"><br><br>
 
-9.After the Vyprvpn Server Installation is completed ,log-in  with the below credentials :- <br>
+9.After the Vyprvpn Server Installation is completed ,enter the public ip py amazon in browser and log-in  with the below credentials :- <br>
 ```bash
 Username: admin
 Password: Grod42decK
 ```
 <br>
+These are the defaults crendentials and need to be changed for security purpose.As it would be your first time logging to this server ,accept the exception and continue.<br><br>
+<img src="https://gitresource.s3.us-east-2.amazonaws.com/vyprvpn/screenshots/Screenshot+from+2019-07-17+16-54-42.png"><br><br>
+
+After successful login ,go to "System Settings" and change the current password.<br><br>
+<img src="https://gitresource.s3.us-east-2.amazonaws.com/vyprvpn/screenshots/Screenshot+from+2019-07-17+16-57-13.png"> <br><br>
+As of now your server is installed and running set your server name and chage the IP type which best suits your instance configuration.<br>
+<ol>
+  <li>
+    If you are using elastic IP attached with your AWS instance or if you are using Digital Ocean droplet then set this value to be Static.As in both the cases if the server reboots the server's IP would not be changed.
+   <li>
+    If you are not using Elastic IP address with your instance then select Dynamic IP in field of "IP Type".
+ </ol>
+<br><br>
+<img src="https://gitresource.s3.us-east-2.amazonaws.com/vyprvpn/screenshots/Screenshot+from+2019-07-17+17-01-05.png"> <br><br>
+To connect to the server first install the VyprVPN client ,in the following example we checked the server functioning on Android Device.<br>
