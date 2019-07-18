@@ -2,6 +2,16 @@
 <p>
 VyprVPN is a VPN (Virtual Private Network) technology that safeguards your privacy and security with multiple encryption protocols and secure DNS. It provides fast and reliable connections with global network of servers.
 </p>
+<h3> Why Use a VyprVPN? </h3>
+<ul>
+  <li>Increase Your Online Privacy and Security :-<br>
+    Encrypt your internet connection with VyprVPN to protect your privacy and secure your connection. Prevent your ISP or third-party snoops from viewing your online communications, location and browsing activity.
+  <li>Bypass Censorship and Restrictive Networks :- <br>
+    Escape government censorship and Internet restrictions,restore your access to a free and open Internet with VyprVPN.
+  <li>Stream Without Limitations :- <br>
+    Improve your speed, access geo-blocked content, and stay secure while streaming online. Achieve the best streaming experience with VyprVPN.
+ </ul>
+
 <p>
   This documentation shows the step-by-step installation of VyprVPN server on AWS (Amazon Web Services).For the VyprVPN own documentation one can follow the <a href="https://support.goldenfrog.com/hc/en-us/articles/360004447451-Deploy-VyprVPN-Cloud-on-Amazon-Web-Services-AWS-"> this </a> link.
  </p>
@@ -79,3 +89,7 @@ After you are connected a tiny notification will show you that your device is co
 After you connect to the server , again check your public IP if it changed or not.
 <img width=320 height=600 src="https://gitresource.s3.us-east-2.amazonaws.com/vyprvpn/screenshots/Screenshot_20190717-230651.png"><br><br>
 <img width=320 height=480 src="https://gitresource.s3.us-east-2.amazonaws.com/vyprvpn/screenshots/Screenshot_20190717-231039.png"><br><br>
+
+</p>
+<hr>
+The new IP is changed from India location to US as the instance hosting the VPN server is in the US location.
