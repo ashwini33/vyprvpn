@@ -78,4 +78,4 @@ Now connect to your sever by selecting the server name (her we have vyprvpn) .<b
 After you are connected a tiny notification will show you that your device is connected to VPN.<br>
 After you connect to the server , again check your public IP if it changed or not.
 <img width=320 height=600 src="https://gitresource.s3.us-east-2.amazonaws.com/vyprvpn/screenshots/Screenshot_20190717-230651.png"><br><br>
-img width=320 height=480 src="https://gitresource.s3.us-east-2.amazonaws.com/vyprvpn/screenshots/Screenshot_20190717-231039.png"><br>,br>
+<img width=320 height=480 src="https://gitresource.s3.us-east-2.amazonaws.com/vyprvpn/screenshots/Screenshot_20190717-231039.png"><br>,br>
